@@ -1,0 +1,61 @@
+name: Update Schedule
+
+on:
+  schedule:
+    # 每天凌晨2点自动更新
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-schedule:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Fetch schedule from HDU API
+        env:
+          STAFF_ID: ${{ secrets.STAFF_ID }}
+        run: |
+          # 如果没有设置STAFF_ID，使用默认的staffId
+          STAFF_ID=${STAFF_ID:-QrSIjTjegpeEPC2Ng13uPA==}
+          
+          echo "Fetching schedule with staffId: $STAFF_ID"
+          curl -s "https://api.hduhelp.com/calendar/schedule?staffId=$STAFF_ID" \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
+            -H "Accept: text/calendar" \
+            -o schedule.ics
+          
+          # 检查文件是否成功获取
+          if [ -s schedule.ics ]; then
+            echo "Schedule fetched successfully"
+            head -n 5 schedule.ics
+          else
+            echo "Failed to fetch schedule"
+            exit 1
+          fi
+
+      - name: Commit and push schedule.ics
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add schedule.ics
+          git diff --staged --quiet || git commit -m "Update schedule $(date +'%Y-%m-%d')"
+          
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: gh-pages
+          force_orphan: true
+          keep_files: false

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>杭电课表日历订阅</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            padding: 40px;
+            max-width: 600px;
+            width: 100%;
+        }
+        
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 28px;
+        }
+        
+        .subtitle {
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+        
+        .calendar-preview {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 30px;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        
+        .calendar-preview h3 {
+            color: #444;
+            margin-bottom: 15px;
+            font-size: 16px;
+        }
+        
+        .event-item {
+            padding: 10px 15px;
+            background: white;
+            border-radius: 8px;
+            margin-bottom: 8px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .event-item .summary {
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 4px;
+        }
+        
+        .event-item .time {
+            font-size: 13px;
+            color: #666;
+        }
+        
+        .event-item .location {
+            font-size: 12px;
+            color: #888;
+            margin-top: 4px;
+        }
+        
+        .subscribe-btn {
+            display: block;
+            width: 100%;
+            padding: 16px 32px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            text-align: center;
+            margin-bottom: 15px;
+        }
+        
+        .subscribe-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+        }
+        
+        .subscribe-btn.secondary {
+            background: #f0f0f0;
+            color: #333;
+        }
+        
+        .subscribe-btn.secondary:hover {
+            background: #e0e0e0;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+        
+        .info {
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 12px;
+        }
+        
+        .info h3 {
+            color: #444;
+            margin-bottom: 15px;
+            font-size: 16px;
+        }
+        
+        .info ol {
+            padding-left: 20px;
+            color: #666;
+            line-height: 1.8;
+        }
+        
+        .info li {
+            margin-bottom: 8px;
+        }
+        
+        .code-block {
+            background: #2d2d2d;
+            color: #f8f8f2;
+            padding: 12px 16px;
+            border-radius: 8px;
+            font-family: 'Consolas', 'Monaco', monospace;
+            font-size: 13px;
+            margin: 10px 0;
+            word-break: break-all;
+        }
+        
+        .last-updated {
+            text-align: center;
+            color: #888;
+            font-size: 12px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📅 杭电课表日历</h1>
+        <p class="subtitle">将课表订阅到你的日历应用中</p>
+        
+        <div class="calendar-preview">
+            <h3>📋 课表预览</h3>
+            <div id="events">
+                <p style="color: #888; text-align: center; padding: 20px;">加载中...</p>
+            </div>
+        </div>
+        
+        <a href="schedule.ics" class="subscribe-btn" onclick="subscribeCalendar()">
+            📥 订阅日历
+        </a>
+        
+        <a href="schedule.ics" download="hdu-schedule.ics" class="subscribe-btn secondary">
+            💾 下载 .ics 文件
+        </a>
+        
+        <div class="info">
+            <h3>📖 订阅说明</h3>
+            <ol>
+                <li>点击「订阅日历」按钮直接订阅</li>
+                <li>或复制以下链接到日历应用：</li>
+                <div class="code-block" id="calendar-url">加载中...</div>
+                <li>Windows 日历：设置 → 添加日历 → 从网络订阅</li>
+                <li>Apple 日历：文件 → 新建日历订阅</li>
+                <li>Google 日历：添加网址</li>
+            </ol>
+        </div>
+        
+        <p class="last-updated">最后更新：<span id="last-updated">-</span></p>
+    </div>
+
+    <script>
+        // 获取当前页面的URL
+        const baseUrl = window.location.href.replace('index.html', '');
+        const icsUrl = baseUrl + 'schedule.ics';
+        
+        document.getElementById('calendar-url').textContent = icsUrl;
+        
+        // 尝试解析并显示课表预览
+        fetch('schedule.ics')
+            .then(response => response.text())
+            .then(icsData => {
+                const events = parseICS(icsData);
+                displayEvents(events);
+            })
+            .catch(err => {
+                document.getElementById('events').innerHTML = 
+                    '<p style="color: #888; text-align: center; padding: 20px;">无法加载课表预览</p>';
+            });
+        
+        function parseICS(icsData) {
+            const events = [];
+            const lines = icsData.split('\n');
+            let currentEvent = null;
+            
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+                
+                if (line === 'BEGIN:VEVENT') {
+                    currentEvent = {};
+                } else if (line === 'END:VEVENT' && currentEvent) {
+                    if (currentEvent.summary && currentEvent.dtstart) {
+                        events.push(currentEvent);
+                    }
+                    currentEvent = null;
+                } else if (currentEvent) {
+                    if (line.startsWith('SUMMARY:')) {
+                        currentEvent.summary = line.substring(8);
+                    } else if (line.startsWith('DTSTART')) {
+                        const match = line.match(/DTSTART.*?:(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})/);
+                        if (match) {
+                            currentEvent.dtstart = `${match[1]}-${match[2]}-${match[3]} ${match[4]}:${match[5]}`;
+                        }
+                    } else if (line.startsWith('DTEND')) {
+                        const match = line.match(/DTEND.*?:(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})/);
+                        if (match) {
+                            currentEvent.dtend = `${match[1]}-${match[2]}-${match[3]} ${match[4]}:${match[5]}`;
+                        }
+                    } else if (line.startsWith('LOCATION:')) {
+                        currentEvent.location = line.substring(9);
+                    }
+                }
+            }
+            
+            // 按时间排序并返回前10个
+            return events.sort((a, b) => a.dtstart.localeCompare(b.dtstart)).slice(0, 10);
+        }
+        
+        function displayEvents(events) {
+            const container = document.getElementById('events');
+            
+            if (events.length === 0) {
+                container.innerHTML = '<p style="color: #888; text-align: center; padding: 20px;">暂无课表数据</p>';
+                return;
+            }
+            
+            container.innerHTML = events.map(event => `
+                <div class="event-item">
+                    <div class="summary">${event.summary}</div>
+                    <div class="time">🕐 ${event.dtstart} - ${event.dtend ? event.dtend.split(' ')[1] : ''}</div>
+                    ${event.location ? `<div class="location">📍 ${event.location}</div>` : ''}
+                </div>
+            `).join('');
+            
+            // 更新最后更新时间
+            const now = new Date();
+            document.getElementById('last-updated').textContent = 
+                now.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
+        }
+        
+        function subscribeCalendar() {
+            // 尝试触发日历应用
+            if (navigator.platform.indexOf('Win') !== -1) {
+                // Windows
+                window.location.href = icsUrl;
+            }
+        }
+    </script>
+</body>
+</html>

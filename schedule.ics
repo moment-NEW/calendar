@@ -1,0 +1,2704 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//arran4//Golang ICS Library
+X-WR-CALNAME:课表
+X-WR-TIMEZONE:Asia/Shanghai
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+BEGIN:STANDARD
+DTSTART:19890917T020000
+TZNAME:GMT+8
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:形势与政策4-0-10
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第3教研楼215
+SUMMARY:形势与政策4
+DTSTART;TZID=Asia/Shanghai:20260507T183000
+DTEND;TZID=Asia/Shanghai:20260507T200500
+ORGANIZER;CN=洪彬一:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=洪彬一:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：洪彬一 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:形势与政策4-0-11
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第3教研楼215
+SUMMARY:形势与政策4
+DTSTART;TZID=Asia/Shanghai:20260514T183000
+DTEND;TZID=Asia/Shanghai:20260514T200500
+ORGANIZER;CN=洪彬一:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=洪彬一:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：洪彬一 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:形势与政策4-0-12
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第3教研楼215
+SUMMARY:形势与政策4
+DTSTART;TZID=Asia/Shanghai:20260521T183000
+DTEND;TZID=Asia/Shanghai:20260521T200500
+ORGANIZER;CN=洪彬一:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=洪彬一:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：洪彬一 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:形势与政策4-0-13
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第3教研楼215
+SUMMARY:形势与政策4
+DTSTART;TZID=Asia/Shanghai:20260528T183000
+DTEND;TZID=Asia/Shanghai:20260528T200500
+ORGANIZER;CN=洪彬一:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=洪彬一:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：洪彬一 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-1
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260303T100000
+DTEND;TZID=Asia/Shanghai:20260303T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-2
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260310T100000
+DTEND;TZID=Asia/Shanghai:20260310T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-3
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260317T100000
+DTEND;TZID=Asia/Shanghai:20260317T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-4
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260324T100000
+DTEND;TZID=Asia/Shanghai:20260324T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-5
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260331T100000
+DTEND;TZID=Asia/Shanghai:20260331T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-6
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260407T100000
+DTEND;TZID=Asia/Shanghai:20260407T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260414T100000
+DTEND;TZID=Asia/Shanghai:20260414T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260421T100000
+DTEND;TZID=Asia/Shanghai:20260421T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-9
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260428T100000
+DTEND;TZID=Asia/Shanghai:20260428T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-10
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260505T100000
+DTEND;TZID=Asia/Shanghai:20260505T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-11
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260512T100000
+DTEND;TZID=Asia/Shanghai:20260512T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-12
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260519T100000
+DTEND;TZID=Asia/Shanghai:20260519T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-13
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260526T100000
+DTEND;TZID=Asia/Shanghai:20260526T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-14
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260602T100000
+DTEND;TZID=Asia/Shanghai:20260602T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-15
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260609T100000
+DTEND;TZID=Asia/Shanghai:20260609T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-16
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260616T100000
+DTEND;TZID=Asia/Shanghai:20260616T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:体育-匹克球（男）-0-17
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:西边匹克球场
+SUMMARY:体育-匹克球（男）
+DTSTART;TZID=Asia/Shanghai:20260623T100000
+DTEND;TZID=Asia/Shanghai:20260623T113500
+ORGANIZER;CN=李邓琳:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李邓琳:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李邓琳 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-1
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260304T080500
+DTEND;TZID=Asia/Shanghai:20260304T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-2
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260311T080500
+DTEND;TZID=Asia/Shanghai:20260311T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-3
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260318T080500
+DTEND;TZID=Asia/Shanghai:20260318T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-4
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260325T080500
+DTEND;TZID=Asia/Shanghai:20260325T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-5
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260401T080500
+DTEND;TZID=Asia/Shanghai:20260401T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-6
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260408T080500
+DTEND;TZID=Asia/Shanghai:20260408T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260415T080500
+DTEND;TZID=Asia/Shanghai:20260415T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260422T080500
+DTEND;TZID=Asia/Shanghai:20260422T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-9
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260429T080500
+DTEND;TZID=Asia/Shanghai:20260429T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-10
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260506T080500
+DTEND;TZID=Asia/Shanghai:20260506T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-11
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260513T080500
+DTEND;TZID=Asia/Shanghai:20260513T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-12
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260520T080500
+DTEND;TZID=Asia/Shanghai:20260520T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-13
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260527T080500
+DTEND;TZID=Asia/Shanghai:20260527T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-14
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260603T080500
+DTEND;TZID=Asia/Shanghai:20260603T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-15
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260610T080500
+DTEND;TZID=Asia/Shanghai:20260610T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-16
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260617T080500
+DTEND;TZID=Asia/Shanghai:20260617T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:雅思英语2-0-17
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第7教研楼南107
+SUMMARY:雅思英语2
+DTSTART;TZID=Asia/Shanghai:20260624T080500
+DTEND;TZID=Asia/Shanghai:20260624T094000
+ORGANIZER;CN=胡淼:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=胡淼:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：胡淼 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-1
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260305T100000
+DTEND;TZID=Asia/Shanghai:20260305T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-2
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260312T100000
+DTEND;TZID=Asia/Shanghai:20260312T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-3
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260319T100000
+DTEND;TZID=Asia/Shanghai:20260319T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-4
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260326T100000
+DTEND;TZID=Asia/Shanghai:20260326T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-5
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260402T100000
+DTEND;TZID=Asia/Shanghai:20260402T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-6
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260409T100000
+DTEND;TZID=Asia/Shanghai:20260409T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260416T100000
+DTEND;TZID=Asia/Shanghai:20260416T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260423T100000
+DTEND;TZID=Asia/Shanghai:20260423T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-9
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260430T100000
+DTEND;TZID=Asia/Shanghai:20260430T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-10
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260507T100000
+DTEND;TZID=Asia/Shanghai:20260507T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-11
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260514T100000
+DTEND;TZID=Asia/Shanghai:20260514T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-12
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260521T100000
+DTEND;TZID=Asia/Shanghai:20260521T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-13
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260528T100000
+DTEND;TZID=Asia/Shanghai:20260528T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-14
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260604T100000
+DTEND;TZID=Asia/Shanghai:20260604T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-15
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260611T100000
+DTEND;TZID=Asia/Shanghai:20260611T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-16
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260618T100000
+DTEND;TZID=Asia/Shanghai:20260618T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:概率论与数理统计-0-17
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北408
+SUMMARY:概率论与数理统计
+DTSTART;TZID=Asia/Shanghai:20260625T100000
+DTEND;TZID=Asia/Shanghai:20260625T122500
+ORGANIZER;CN=郦钦龙:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=郦钦龙:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：郦钦龙 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-1
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260306T100000
+DTEND;TZID=Asia/Shanghai:20260306T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-2
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260313T100000
+DTEND;TZID=Asia/Shanghai:20260313T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-3
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260320T100000
+DTEND;TZID=Asia/Shanghai:20260320T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-4
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260327T100000
+DTEND;TZID=Asia/Shanghai:20260327T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-5
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260403T100000
+DTEND;TZID=Asia/Shanghai:20260403T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-6
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260410T100000
+DTEND;TZID=Asia/Shanghai:20260410T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260417T100000
+DTEND;TZID=Asia/Shanghai:20260417T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260424T100000
+DTEND;TZID=Asia/Shanghai:20260424T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-9
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260501T100000
+DTEND;TZID=Asia/Shanghai:20260501T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-10
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260508T100000
+DTEND;TZID=Asia/Shanghai:20260508T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-11
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260515T100000
+DTEND;TZID=Asia/Shanghai:20260515T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-12
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260522T100000
+DTEND;TZID=Asia/Shanghai:20260522T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-13
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260529T100000
+DTEND;TZID=Asia/Shanghai:20260529T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-14
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260605T100000
+DTEND;TZID=Asia/Shanghai:20260605T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-15
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260612T100000
+DTEND;TZID=Asia/Shanghai:20260612T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-16
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260619T100000
+DTEND;TZID=Asia/Shanghai:20260619T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:工程复变函数和积分变换-0-17
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北110
+SUMMARY:工程复变函数和积分变换
+DTSTART;TZID=Asia/Shanghai:20260626T100000
+DTEND;TZID=Asia/Shanghai:20260626T122500
+ORGANIZER;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=陈冬梅:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=周贤锋:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：陈冬梅 周贤锋 \n\nCreated by HDUHELP
+  杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-0-5
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260401T183000
+DTEND;TZID=Asia/Shanghai:20260401T200500
+ORGANIZER;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：匡振中 Tarakanov Denis Koroleva Iuliia
+  李忠金 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-1-6
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260410T183000
+DTEND;TZID=Asia/Shanghai:20260410T200500
+ORGANIZER;CN=李忠金:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李忠金 匡振中 Tarakanov Denis Koroleva
+  Iuliia \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-2-10
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼108
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260507T133000
+DTEND;TZID=Asia/Shanghai:20260507T165000
+ORGANIZER;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：匡振中 Tarakanov Denis Koroleva Iuliia
+  李忠金 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-3-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260414T183000
+DTEND;TZID=Asia/Shanghai:20260414T200500
+ORGANIZER;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：Koroleva Iuliia 李忠金 匡振中 Tarakanov
+  Denis \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-3-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260421T183000
+DTEND;TZID=Asia/Shanghai:20260421T200500
+ORGANIZER;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：Koroleva Iuliia 李忠金 匡振中 Tarakanov
+  Denis \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-4-5
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260402T133000
+DTEND;TZID=Asia/Shanghai:20260402T165000
+ORGANIZER;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：匡振中 Tarakanov Denis Koroleva Iuliia
+  李忠金 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-5-11
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼201203
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260515T080500
+DTEND;TZID=Asia/Shanghai:20260515T094000
+ORGANIZER;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：匡振中 Tarakanov Denis Koroleva Iuliia
+  李忠金 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-6-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260424T151500
+DTEND;TZID=Asia/Shanghai:20260424T165000
+ORGANIZER;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：匡振中 Tarakanov Denis Koroleva Iuliia
+  李忠金 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-7-5
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260403T183000
+DTEND;TZID=Asia/Shanghai:20260403T200500
+ORGANIZER;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：匡振中 Tarakanov Denis Koroleva Iuliia
+  李忠金 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-7-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260417T183000
+DTEND;TZID=Asia/Shanghai:20260417T200500
+ORGANIZER;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：匡振中 Tarakanov Denis Koroleva Iuliia
+  李忠金 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-8-5
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260331T151500
+DTEND;TZID=Asia/Shanghai:20260331T200500
+ORGANIZER;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：匡振中 Tarakanov Denis Koroleva Iuliia
+  李忠金 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-9-4
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼108
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260324T151500
+DTEND;TZID=Asia/Shanghai:20260324T200500
+ORGANIZER;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：匡振中 Tarakanov Denis Koroleva Iuliia
+  李忠金 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-10-11
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼201203
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260515T133000
+DTEND;TZID=Asia/Shanghai:20260515T150500
+ORGANIZER;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：匡振中 Tarakanov Denis Koroleva Iuliia
+  李忠金 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-11-4
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼201203
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260325T133000
+DTEND;TZID=Asia/Shanghai:20260325T150500
+ORGANIZER;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：Tarakanov Denis Koroleva Iuliia 李忠金
+  匡振中 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-12-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260422T183000
+DTEND;TZID=Asia/Shanghai:20260422T200500
+ORGANIZER;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：匡振中 Tarakanov Denis Koroleva Iuliia
+  李忠金 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:算法与数据结构-0-11
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301
+SUMMARY:算法与数据结构
+DTSTART;TZID=Asia/Shanghai:20260512T151500
+DTEND;TZID=Asia/Shanghai:20260512T165000
+ORGANIZER;CN=李忠金:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=李忠金:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=匡振中:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Tarakanov Denis:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：李忠金 匡振中 Tarakanov Denis Koroleva
+  Iuliia \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:嵌入式系统-0-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:嵌入式系统
+DTSTART;TZID=Asia/Shanghai:20260415T151500
+DTEND;TZID=Asia/Shanghai:20260415T165000
+ORGANIZER;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Bykovskii Sergei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：袁文强 Bykovskii Sergei ZINOVICHEV EGOR
+  \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:嵌入式系统-1-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:嵌入式系统
+DTSTART;TZID=Asia/Shanghai:20260413T151500
+DTEND;TZID=Asia/Shanghai:20260413T200500
+ORGANIZER;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Bykovskii Sergei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：袁文强 Bykovskii Sergei ZINOVICHEV EGOR
+  \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:嵌入式系统-1-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:嵌入式系统
+DTSTART;TZID=Asia/Shanghai:20260420T151500
+DTEND;TZID=Asia/Shanghai:20260420T200500
+ORGANIZER;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Bykovskii Sergei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：袁文强 Bykovskii Sergei ZINOVICHEV EGOR
+  \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:嵌入式系统-2-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼201203
+SUMMARY:嵌入式系统
+DTSTART;TZID=Asia/Shanghai:20260423T133000
+DTEND;TZID=Asia/Shanghai:20260423T150500
+ORGANIZER;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Bykovskii Sergei:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：ZINOVICHEV EGOR 袁文强 Bykovskii Sergei
+  \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:嵌入式系统-3-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:嵌入式系统
+DTSTART;TZID=Asia/Shanghai:20260414T133000
+DTEND;TZID=Asia/Shanghai:20260414T150500
+ORGANIZER;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Bykovskii Sergei:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：ZINOVICHEV EGOR 袁文强 Bykovskii Sergei
+  \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:嵌入式系统-3-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:嵌入式系统
+DTSTART;TZID=Asia/Shanghai:20260421T133000
+DTEND;TZID=Asia/Shanghai:20260421T150500
+ORGANIZER;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Bykovskii Sergei:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：ZINOVICHEV EGOR 袁文强 Bykovskii Sergei
+  \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:嵌入式系统-4-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:嵌入式系统
+DTSTART;TZID=Asia/Shanghai:20260422T133000
+DTEND;TZID=Asia/Shanghai:20260422T165000
+ORGANIZER;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Bykovskii Sergei:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：ZINOVICHEV EGOR 袁文强 Bykovskii Sergei
+  \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:嵌入式系统-5-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:嵌入式系统
+DTSTART;TZID=Asia/Shanghai:20260415T183000
+DTEND;TZID=Asia/Shanghai:20260415T200500
+ORGANIZER;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Bykovskii Sergei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：袁文强 Bykovskii Sergei ZINOVICHEV EGOR
+  \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:嵌入式系统-6-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:嵌入式系统
+DTSTART;TZID=Asia/Shanghai:20260417T151500
+DTEND;TZID=Asia/Shanghai:20260417T165000
+ORGANIZER;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Bykovskii Sergei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：袁文强 Bykovskii Sergei ZINOVICHEV EGOR
+  \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:嵌入式系统-7-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:嵌入式系统
+DTSTART;TZID=Asia/Shanghai:20260414T151500
+DTEND;TZID=Asia/Shanghai:20260414T165000
+ORGANIZER;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Bykovskii Sergei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：袁文强 Bykovskii Sergei ZINOVICHEV EGOR
+  \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:嵌入式系统-7-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:嵌入式系统
+DTSTART;TZID=Asia/Shanghai:20260421T151500
+DTEND;TZID=Asia/Shanghai:20260421T165000
+ORGANIZER;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Bykovskii Sergei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：袁文强 Bykovskii Sergei ZINOVICHEV EGOR
+  \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:嵌入式系统-8-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:嵌入式系统
+DTSTART;TZID=Asia/Shanghai:20260417T133000
+DTEND;TZID=Asia/Shanghai:20260417T150500
+ORGANIZER;CN=Bykovskii Sergei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Bykovskii Sergei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=袁文强:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：Bykovskii Sergei ZINOVICHEV EGOR 袁文强
+  \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:嵌入式系统-9-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:嵌入式系统
+DTSTART;TZID=Asia/Shanghai:20260416T133000
+DTEND;TZID=Asia/Shanghai:20260416T165000
+ORGANIZER;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=袁文强:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Bykovskii Sergei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=ZINOVICHEV EGOR:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：袁文强 Bykovskii Sergei ZINOVICHEV EGOR
+  \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-0-6
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260409T133000
+DTEND;TZID=Asia/Shanghai:20260409T165000
+ORGANIZER;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：Koroleva Iuliia 王东京 AVDIUSHYNA ANNA
+  Korenkov Iurii \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-1-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260413T133000
+DTEND;TZID=Asia/Shanghai:20260413T150500
+ORGANIZER;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：王东京 AVDIUSHYNA ANNA Korenkov Iurii
+  Koroleva Iuliia \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-1-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260420T133000
+DTEND;TZID=Asia/Shanghai:20260420T150500
+ORGANIZER;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：王东京 AVDIUSHYNA ANNA Korenkov Iurii
+  Koroleva Iuliia \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-2-6
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼201203
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260410T151500
+DTEND;TZID=Asia/Shanghai:20260410T165000
+ORGANIZER;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：王东京 AVDIUSHYNA ANNA Korenkov Iurii
+  Koroleva Iuliia \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-3-4
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260327T133000
+DTEND;TZID=Asia/Shanghai:20260327T150500
+ORGANIZER;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：王东京 AVDIUSHYNA ANNA Korenkov Iurii
+  Koroleva Iuliia \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-3-5
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260403T133000
+DTEND;TZID=Asia/Shanghai:20260403T150500
+ORGANIZER;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：王东京 AVDIUSHYNA ANNA Korenkov Iurii
+  Koroleva Iuliia \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-3-6
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260410T133000
+DTEND;TZID=Asia/Shanghai:20260410T150500
+ORGANIZER;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：王东京 AVDIUSHYNA ANNA Korenkov Iurii
+  Koroleva Iuliia \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-4-6
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼201203
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260408T133000
+DTEND;TZID=Asia/Shanghai:20260408T165000
+ORGANIZER;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：王东京 AVDIUSHYNA ANNA Korenkov Iurii
+  Koroleva Iuliia \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-5-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260424T133000
+DTEND;TZID=Asia/Shanghai:20260424T150500
+ORGANIZER;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：Korenkov Iurii Koroleva Iuliia 王东京
+  AVDIUSHYNA ANNA \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-6-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260423T151500
+DTEND;TZID=Asia/Shanghai:20260423T165000
+ORGANIZER;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：王东京 AVDIUSHYNA ANNA Korenkov Iurii
+  Koroleva Iuliia \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-7-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260415T133000
+DTEND;TZID=Asia/Shanghai:20260415T150500
+ORGANIZER;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：王东京 AVDIUSHYNA ANNA Korenkov Iurii
+  Koroleva Iuliia \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-8-5
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260403T151500
+DTEND;TZID=Asia/Shanghai:20260403T165000
+ORGANIZER;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：Koroleva Iuliia 王东京 AVDIUSHYNA ANNA
+  Korenkov Iurii \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-9-4
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼201203
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260326T133000
+DTEND;TZID=Asia/Shanghai:20260326T165000
+ORGANIZER;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：Korenkov Iurii Koroleva Iuliia 王东京
+  AVDIUSHYNA ANNA \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-10-5
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼201203
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260330T133000
+DTEND;TZID=Asia/Shanghai:20260330T165000
+ORGANIZER;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：Korenkov Iurii Koroleva Iuliia 王东京
+  AVDIUSHYNA ANNA \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-11-5
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260401T133000
+DTEND;TZID=Asia/Shanghai:20260401T165000
+ORGANIZER;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：王东京 AVDIUSHYNA ANNA Korenkov Iurii
+  Koroleva Iuliia \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-12-4
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260327T183000
+DTEND;TZID=Asia/Shanghai:20260327T200500
+ORGANIZER;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：AVDIUSHYNA ANNA Korenkov Iurii Koroleva Iuliia
+  王东京 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:信息系统-13-4
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼108
+SUMMARY:信息系统
+DTSTART;TZID=Asia/Shanghai:20260325T151500
+DTEND;TZID=Asia/Shanghai:20260325T165000
+ORGANIZER;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=王东京:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=AVDIUSHYNA ANNA:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Korenkov Iurii:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Koroleva Iuliia:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：王东京 AVDIUSHYNA ANNA Korenkov Iurii
+  Koroleva Iuliia \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-0-6
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼201203
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260408T183000
+DTEND;TZID=Asia/Shanghai:20260408T200500
+ORGANIZER;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：EVSTAFEV OLEG 张莉 Zhdanov Andrei \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-1-6
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260407T183000
+DTEND;TZID=Asia/Shanghai:20260407T205500
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-2-4
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼108
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260323T151500
+DTEND;TZID=Asia/Shanghai:20260323T165000
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-3-3
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼108
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260320T151500
+DTEND;TZID=Asia/Shanghai:20260320T165000
+ORGANIZER;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：Zhdanov Andrei EVSTAFEV OLEG 张莉 \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-4-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260413T080500
+DTEND;TZID=Asia/Shanghai:20260413T094000
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-4-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260420T080500
+DTEND;TZID=Asia/Shanghai:20260420T094000
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-4-9
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260427T080500
+DTEND;TZID=Asia/Shanghai:20260427T094000
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-5-3
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼108
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260319T151500
+DTEND;TZID=Asia/Shanghai:20260319T165000
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-6-6
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260410T080500
+DTEND;TZID=Asia/Shanghai:20260410T094000
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-6-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260417T080500
+DTEND;TZID=Asia/Shanghai:20260417T094000
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-6-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260424T080500
+DTEND;TZID=Asia/Shanghai:20260424T094000
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-7-9
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260427T133000
+DTEND;TZID=Asia/Shanghai:20260427T150500
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-8-6
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260407T133000
+DTEND;TZID=Asia/Shanghai:20260407T165000
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-9-4
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260327T151500
+DTEND;TZID=Asia/Shanghai:20260327T165000
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-10-5
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼106
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260330T080500
+DTEND;TZID=Asia/Shanghai:20260330T094000
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-11-4
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼301303
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260323T183000
+DTEND;TZID=Asia/Shanghai:20260323T200500
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:计算机视觉-12-3
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第11教研楼108
+SUMMARY:计算机视觉
+DTSTART;TZID=Asia/Shanghai:20260318T151500
+DTEND;TZID=Asia/Shanghai:20260318T165000
+ORGANIZER;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=张莉:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=Zhdanov Andrei:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=EVSTAFEV OLEG:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：张莉 Zhdanov Andrei EVSTAFEV OLEG \n\nCreated
+  by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-0-7
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:课外实践不在教室
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260413T100000
+DTEND;TZID=Asia/Shanghai:20260413T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-0-8
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:课外实践不在教室
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260420T100000
+DTEND;TZID=Asia/Shanghai:20260420T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-1
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260302T100000
+DTEND;TZID=Asia/Shanghai:20260302T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-2
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260309T100000
+DTEND;TZID=Asia/Shanghai:20260309T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-3
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260316T100000
+DTEND;TZID=Asia/Shanghai:20260316T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-4
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260323T100000
+DTEND;TZID=Asia/Shanghai:20260323T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-5
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260330T100000
+DTEND;TZID=Asia/Shanghai:20260330T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-6
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260406T100000
+DTEND;TZID=Asia/Shanghai:20260406T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-9
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260427T100000
+DTEND;TZID=Asia/Shanghai:20260427T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-10
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260504T100000
+DTEND;TZID=Asia/Shanghai:20260504T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-11
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260511T100000
+DTEND;TZID=Asia/Shanghai:20260511T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-12
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260518T100000
+DTEND;TZID=Asia/Shanghai:20260518T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-13
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260525T100000
+DTEND;TZID=Asia/Shanghai:20260525T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-14
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260601T100000
+DTEND;TZID=Asia/Shanghai:20260601T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-15
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260608T100000
+DTEND;TZID=Asia/Shanghai:20260608T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-16
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260615T100000
+DTEND;TZID=Asia/Shanghai:20260615T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:习近平新时代中国特色社会主义思想概论-1-17
+CREATED:20260425T030148Z
+DTSTAMP:20260425T030148Z
+LAST-MODIFIED:20260425T030148Z
+LOCATION:第6教研楼北104
+SUMMARY:习近平新时代中国特色社会主义思想概论
+DTSTART;TZID=Asia/Shanghai:20260622T100000
+DTEND;TZID=Asia/Shanghai:20260622T122500
+ORGANIZER;CN=马晓媚:mailto:noreply@hduhelp.cn
+ATTENDEE;CN=马晓媚:mailto:noreply@hduhelp.cn
+DESCRIPTION:授课老师：马晓媚 \n\nCreated by HDUHELP 杭电助手\,
+  如有疑问请以网页课表为准。\nhttps://cinnamon.hduhelp.com/nav
+ igation/schedule
+URL:https://cinnamon.hduhelp.com/navigation/schedule
+END:VEVENT
+END:VCALENDAR
