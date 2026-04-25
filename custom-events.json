@@ -1,0 +1,32 @@
+[
+  {
+    "id": "custom-1",
+    "title": "期末考试 - 嵌入式系统",
+    "start": "2026-07-01T09:00:00",
+    "end": "2026-07-01T11:00:00",
+    "location": "第11教研楼",
+    "description": "考试地点以准考证为准",
+    "category": "exam",
+    "reminder": 1440
+  },
+  {
+    "id": "custom-2",
+    "title": "算法作业提交",
+    "start": "2026-04-28T23:59:00",
+    "end": "2026-04-28T23:59:00",
+    "location": "线上",
+    "description": "第三章课后习题",
+    "category": "homework",
+    "reminder": 60
+  },
+  {
+    "id": "custom-3",
+    "title": "社团例会",
+    "start": "2026-04-27T19:00:00",
+    "end": "2026-04-27T21:00:00",
+    "location": "学生活动中心302",
+    "description": "每周例会",
+    "category": "activity",
+    "reminder": 120
+  }
+]
